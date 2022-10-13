@@ -1,5 +1,5 @@
-# patator
-patator  for   windows , multi-purpose brute-forcer
+# Patator
+Patator  for   windows , multi-purpose brute-forcer
 Patator 0.9 
 Usage: patator.py module --help
 
